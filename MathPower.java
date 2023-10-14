@@ -7,7 +7,7 @@ public class MathPower {
         for(int i=0;i<t;i++){
             int a = in.nextInt();
             int b = in.nextInt();
-            int n = in.nextInt();rggr
+            int n = in.nextInt();
             int calc = a;
             for(int j=0;j<n;j++)
             {
