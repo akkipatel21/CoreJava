@@ -1,7 +1,7 @@
 import java.util.*;
 class DS {
     public static void main(String[] args) {
-
+wd
 
         List<Integer> list1 = Arrays.asList(1, 2, 3, 4, 4, 5, 6);
         List<Integer> list2 = Arrays.asList(5, 6, 7, 8);
