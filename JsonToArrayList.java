@@ -1,4 +1,4 @@
-import java.util.*;
+dwimport java.util.*;
 class DS {
     public static void main(String[] args) {
 
