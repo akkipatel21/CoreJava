@@ -6,7 +6,7 @@ dw
         List<Integer> list1 = Arrays.asList(1, 2, 3, 4, 4, 5, 6);
         List<Integer> list2 = Arrays.asList(5, 6, 7, 8);d
         // Prepare a union
-        Set<Integer> union = new HashSet<Integer>(list1);
+        Set<Integer> union = new HashSet<Integer>(list1);dw
         union.addAll(list2);
         // Prepare an intersection
         Set<Integer> intersection = new HashSet<Integer>(list1);
